@@ -1,16 +1,22 @@
-## Hi there 👋
+# Bikash Jha(Cybersecurity Analyst)
 
-<!--
-**bikashjhatech/bikashjhatech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills and Tools
+<div>
+<p><b>SIEM</b>: Splunk, QRadar</p>
+<p><b>EDR</b> : Crowdstrike, SentinelOne</p>
+<p><b>Email Security</b>: Proofpoint</p>
+<p><b>Network Security</b>: Wireshark, Nmap, FortiGate</p>
+<p><b>Vulnerability Scanner</b>: TennableIO, Acunetix</p>
+<p><b>Virtualization</b>: Virtualbox, Kali Linux</p>
+<p><b>Security Frameworks</b>: NIST, OWASP, MITRE ATT&CK</p>
+<p><b>Programming language & Database</b>: Python, Javascript, Mysql</p>
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+<div>
+<p><b>CompTIA Security+</b></p>
+<p><b>ISC2 CC</b>(In Progress)</p>
+</div>
+
+## Projects
