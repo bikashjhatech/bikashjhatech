@@ -9,7 +9,7 @@
 <p><b>Vulnerability Scanner</b>: TennableIO, Acunetix</p>
 <p><b>Virtualization</b>: Virtualbox, Kali Linux</p>
 <p><b>Security Frameworks</b>: NIST, OWASP, MITRE ATT&CK</p>
-<p><b>Programming language & Database</b>: Python, Javascript, Mysql</p>
+<p><b>Programming language & Database</b>: Python, Javascript, MySQL</p>
 </div>
 
 
