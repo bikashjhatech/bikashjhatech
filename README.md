@@ -1,22 +1,63 @@
 # Bikash Jha(Cybersecurity Analyst)
 
 ## Skills and Tools
+
+### SIEM
 <div>
-<p><b>SIEM</b>: Splunk, QRadar</p>
-<p><b>EDR</b> : Crowdstrike, SentinelOne</p>
-<p><b>Email Security</b>: Proofpoint</p>
-<p><b>Network Security</b>: Wireshark, Nmap, FortiGate</p>
-<p><b>Vulnerability Scanner</b>: TennableIO, Acunetix</p>
-<p><b>Virtualization</b>: Virtualbox, Kali Linux</p>
-<p><b>Security Frameworks</b>: NIST, OWASP, MITRE ATT&CK</p>
-<p><b>Programming language & Database</b>: Python, Javascript, MySQL</p>
+  <img src="https://img.shields.io/badge/-Splunk-FD746C?style=for-the-badge&logo=Splunk&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-QRadar-1A1A1A?&style=for-the-badge&logo=IBM&logoColor=white" />
+</div>
+
+### EDR
+<div>
+  <img src="https://img.shields.io/badge/-CrowdStrike-FC6047?&style=for-the-badge&logo=CrowdStrike&logoColor=white" />
+  <img src="https://img.shields.io/badge/-SentinelOne-8E2DE2?style=for-the-badge&logo=SentinelOne&logoColor=white" />
+
+</div>
+
+### Email Security
+<div>
+  <img src="https://img.shields.io/badge/-Proofpoint-000000?style=for-the-badge&logo=Proofpoint&logoColor=white" />
+</div>
+
+### Network
+<div>
+  <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-FortiGate-EE3124?style=for-the-badge&logo=Fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Nmap-000000?style=for-the-badge&logo=Nmap&logoColor=white" />
+
+</div>
+
+### Vulnerability Scanner
+<div>
+  <img src="https://img.shields.io/badge/-Tenable-00605E?style=for-the-badge&logo=Tenable&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Acunetix-000000?style=for-the-badge&logo=Acunetix&logoColor=white" />
+</div>
+
+### Virtualization
+<div>
+  <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+  
+
+
+
+</div>
+
+### Programming Language & Database
+<div>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
+
+
 </div>
 
 
 ## Certifications
 <div>
-<p><b>CompTIA Security+</b></p>
-<p><b>ISC2 CC</b>(In Progress)</p>
+  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Projects
