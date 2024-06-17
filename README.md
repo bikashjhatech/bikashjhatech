@@ -58,6 +58,7 @@
 ## Certifications
 <div>
   <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-00AA00?style=for-the-badge&logo=ISC2&logoColor=white&labelColor=white" />
 </div>
 
 ## Projects
