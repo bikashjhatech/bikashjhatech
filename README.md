@@ -39,16 +39,13 @@
 <div>
   <img src="https://img.shields.io/badge/-VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white" />
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
-  
-
-
-
 </div>
 
 ### Programming Language & Database
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-PowerShell-5391FE?style=for-the-badge&logo=PowerShell&logoColor=white" />
   <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
 
 
