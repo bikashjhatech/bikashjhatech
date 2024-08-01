@@ -21,6 +21,11 @@
   <img src="https://img.shields.io/badge/-Proofpoint-000000?style=for-the-badge&logo=Proofpoint&logoColor=white" />
 </div>
 
+### SOAR
+<div>
+  <img src="https://img.shields.io/badge/-Tines-6a0dad?style=for-the-badge&logo=Tines&logoColor=white" />
+</div>
+
 ### Network
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
