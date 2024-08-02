@@ -65,5 +65,6 @@
 
 ## Projects
 
-  - <a href="https://github.com/bikashjhatech/dictionary-attack/tree/master/">Dictionary Attack </a>
+  - <a href="https://github.com/bikashjhatech/SOAR/">SOAR </a>
   - <a href="https://github.com/bikashjhatech/Active-Directory/tree/main">Active-Directory </a>
+  - <a href="https://github.com/bikashjhatech/dictionary-attack/tree/master/">Dictionary Attack </a>
