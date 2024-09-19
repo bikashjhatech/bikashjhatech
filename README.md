@@ -61,8 +61,8 @@
 
 ## Certifications
 <div>
-  <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-00AA00?style=for-the-badge&logo=ISC2&logoColor=white&labelColor=white" />
+  <a href="https://www.credly.com/badges/9daffa29-503b-4c27-8b45-8720b5c9afd8"><img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" /><a/>
+  <a href="https://www.credly.com/badges/5ea01cc5-05ee-488c-a740-5a7a427cda4e"><img src="https://img.shields.io/badge/-ISC2%20Certified%20in%20Cybersecurity%20(CC)-00AA00?style=for-the-badge&logo=ISC2&logoColor=white&labelColor=white" /><a/>
 </div>
 
 ## Projects
