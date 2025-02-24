@@ -28,6 +28,22 @@
   <img src="https://img.shields.io/badge/-Tines-6a0dad?style=for-the-badge&logo=Tines&logoColor=white" />
 </div>
 
+### Cloud
+<div>
+  <img src="https://img.shields.io/badge/-Azure-0078D4?&style=for-the-badge&logo=Microsoft-Azure&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-AWS-232F3E?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" />
+
+ <img src="https://img.shields.io/badge/-Docker-2496ED?&style=for-the-badge&logo=Docker&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?&style=for-the-badge&logo=Ansible&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/-Terraform-7F5AB6?&style=for-the-badge&logo=Terraform&logoColor=white" />
+
+</div>
+
 ### Network
 <div>
   <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
