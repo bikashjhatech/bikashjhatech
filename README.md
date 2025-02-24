@@ -72,6 +72,17 @@
 
 </div>
 
+### Project Management & CI/CD
+ <div>
+  <img src="https://img.shields.io/badge/-Jira-0052CC?&style=for-the-badge&logo=Jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/-TheHive-DA5F0E?&style=for-the-badge&logo=TheHive&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Rally-6B8E23?&style=for-the-badge&logo=Rally&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=GitHub&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitLab-FCA121?&style=for-the-badge&logo=GitLab&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+ </div>
+
+
 ### Programming Language & Database
 <div>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white" />
