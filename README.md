@@ -1,6 +1,9 @@
 # Bikash Jha(Cybersecurity Analyst)
 <a href="https://linkedin.com/in/bikashjhatech/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://medium.com/@bikashjhatech"><img src="https://img.shields.io/badge/-Medium-12100E?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<a href="https://x.com/sec_cyber">
+  <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
 
 ## Skills and Tools
 
